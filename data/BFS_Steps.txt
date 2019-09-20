@@ -1,0 +1,300 @@
+Iteration : 0
+Ave :180.28
+----------
+Iteration : 1
+Ave :175.33
+----------
+Iteration : 2
+Ave :171.42
+----------
+Iteration : 3
+Ave :168.82
+----------
+Iteration : 4
+Ave :166.25
+----------
+Iteration : 5
+Ave :164.77
+----------
+Iteration : 6
+Ave :163.61
+----------
+Iteration : 7
+Ave :164.36
+----------
+Iteration : 8
+Ave :165.6
+----------
+Iteration : 9
+Ave :166.16
+----------
+Iteration : 10
+Ave :168.11
+----------
+Iteration : 11
+Ave :169.24
+----------
+Iteration : 12
+Ave :171.59
+----------
+Iteration : 13
+Ave :173.64
+----------
+Iteration : 14
+Ave :177.34
+----------
+Iteration : 15
+Ave :179.52
+----------
+Iteration : 16
+Ave :183.8
+----------
+Iteration : 17
+Ave :184.52
+----------
+Iteration : 18
+Ave :186.67
+----------
+Iteration : 19
+Ave :188.19
+----------
+Iteration : 20
+Ave :189.16
+----------
+Iteration : 21
+Ave :188.86
+----------
+Iteration : 22
+Ave :189.2
+----------
+Iteration : 23
+Ave :190.28
+----------
+Iteration : 24
+Ave :193.56
+----------
+Iteration : 25
+Ave :193.9
+----------
+Iteration : 26
+Ave :194.85
+----------
+Iteration : 27
+Ave :193.61
+----------
+Iteration : 28
+Ave :191.09
+----------
+Iteration : 29
+Ave :190.96
+----------
+Iteration : 30
+Ave :189.64
+----------
+Iteration : 31
+Ave :191.33
+----------
+Iteration : 32
+Ave :190.25
+----------
+Iteration : 33
+Ave :194.58
+----------
+Iteration : 34
+Ave :198.7
+----------
+Iteration : 35
+Ave :198.82
+----------
+Iteration : 36
+Ave :199.69
+----------
+Iteration : 37
+Ave :201.29
+----------
+Iteration : 38
+Ave :201.21
+----------
+Iteration : 39
+Ave :200.53
+----------
+Iteration : 40
+Ave :199.88
+----------
+Iteration : 41
+Ave :199.64
+----------
+Iteration : 42
+Ave :200.33
+----------
+Iteration : 43
+Ave :201.42
+----------
+Iteration : 44
+Ave :204.5
+----------
+Iteration : 45
+Ave :203.56
+----------
+Iteration : 46
+Ave :205.14
+----------
+Iteration : 47
+Ave :206.58
+----------
+Iteration : 48
+Ave :207.05
+----------
+Iteration : 49
+Ave :207.21
+----------
+Iteration : 50
+Ave :208.1
+----------
+Iteration : 51
+Ave :207.62
+----------
+Iteration : 52
+Ave :207.03
+----------
+Iteration : 53
+Ave :206.2
+----------
+Iteration : 54
+Ave :204.96
+----------
+Iteration : 55
+Ave :206.47
+----------
+Iteration : 56
+Ave :206.34
+----------
+Iteration : 57
+Ave :205.2
+----------
+Iteration : 58
+Ave :207.74
+----------
+Iteration : 59
+Ave :205.57
+----------
+Iteration : 60
+Ave :205.63
+----------
+Iteration : 61
+Ave :205.4
+----------
+Iteration : 62
+Ave :205.02
+----------
+Iteration : 63
+Ave :203.87
+----------
+Iteration : 64
+Ave :204.64
+----------
+Iteration : 65
+Ave :203.96
+----------
+Iteration : 66
+Ave :206.6
+----------
+Iteration : 67
+Ave :206.25
+----------
+Iteration : 68
+Ave :206.47
+----------
+Iteration : 69
+Ave :204.77
+----------
+Iteration : 70
+Ave :204.59
+----------
+Iteration : 71
+Ave :203.42
+----------
+Iteration : 72
+Ave :202.42
+----------
+Iteration : 73
+Ave :201.86
+----------
+Iteration : 74
+Ave :202.71
+----------
+Iteration : 75
+Ave :203.02
+----------
+Iteration : 76
+Ave :203.56
+----------
+Iteration : 77
+Ave :201.8
+----------
+Iteration : 78
+Ave :201.72
+----------
+Iteration : 79
+Ave :201.56
+----------
+Iteration : 80
+Ave :202.35
+----------
+Iteration : 81
+Ave :201.51
+----------
+Iteration : 82
+Ave :201.92
+----------
+Iteration : 83
+Ave :202.34
+----------
+Iteration : 84
+Ave :203.76
+----------
+Iteration : 85
+Ave :203.58
+----------
+Iteration : 86
+Ave :205.38
+----------
+Iteration : 87
+Ave :207.27
+----------
+Iteration : 88
+Ave :207.77
+----------
+Iteration : 89
+Ave :207.89
+----------
+Iteration : 90
+Ave :207.13
+----------
+Iteration : 91
+Ave :206.02
+----------
+Iteration : 92
+Ave :205.88
+----------
+Iteration : 93
+Ave :205.6
+----------
+Iteration : 94
+Ave :207.28
+----------
+Iteration : 95
+Ave :206.02
+----------
+Iteration : 96
+Ave :205.57
+----------
+Iteration : 97
+Ave :205.83
+----------
+Iteration : 98
+Ave :206.43
+----------
+Iteration : 99
+Ave :206.37
+----------

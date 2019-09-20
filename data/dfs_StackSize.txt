@@ -1,0 +1,1500 @@
+================= THIS IS THE 0 ITERATION
+  Total 100 of mazes
+  Average: 511.18 Median: 492.0 MAX: 897.0 MIN: 456.0
+================= THIS IS THE 1 ITERATION
+  Total 100 of mazes
+  Average: 506.17 Median: 493.0 MAX: 896.0 MIN: 458.0
+================= THIS IS THE 2 ITERATION
+  Total 100 of mazes
+  Average: 504.15 Median: 492.0 MAX: 880.0 MIN: 456.0
+================= THIS IS THE 3 ITERATION
+  Total 100 of mazes
+  Average: 518.9 Median: 491.0 MAX: 1052.0 MIN: 459.0
+================= THIS IS THE 4 ITERATION
+  Total 100 of mazes
+  Average: 513.5 Median: 493.0 MAX: 1104.0 MIN: 458.0
+================= THIS IS THE 5 ITERATION
+  Total 100 of mazes
+  Average: 511.94 Median: 493.0 MAX: 1037.0 MIN: 458.0
+================= THIS IS THE 6 ITERATION
+  Total 100 of mazes
+  Average: 507.24 Median: 493.0 MAX: 897.0 MIN: 451.0
+================= THIS IS THE 7 ITERATION
+  Total 100 of mazes
+  Average: 516.17 Median: 496.0 MAX: 1000.0 MIN: 451.0
+================= THIS IS THE 8 ITERATION
+  Total 100 of mazes
+  Average: 520.26 Median: 494.0 MAX: 927.0 MIN: 451.0
+================= THIS IS THE 9 ITERATION
+  Total 100 of mazes
+  Average: 524.72 Median: 498.0 MAX: 1216.0 MIN: 458.0
+================= THIS IS THE 10 ITERATION
+  Total 100 of mazes
+  Average: 506.94 Median: 496.0 MAX: 915.0 MIN: 458.0
+================= THIS IS THE 11 ITERATION
+  Total 100 of mazes
+  Average: 516.44 Median: 496.0 MAX: 889.0 MIN: 454.0
+================= THIS IS THE 12 ITERATION
+  Total 100 of mazes
+  Average: 516.3 Median: 496.0 MAX: 868.0 MIN: 463.0
+================= THIS IS THE 13 ITERATION
+  Total 100 of mazes
+  Average: 549.67 Median: 503.0 MAX: 1230.0 MIN: 451.0
+================= THIS IS THE 14 ITERATION
+  Total 100 of mazes
+  Average: 526.46 Median: 501.0 MAX: 924.0 MIN: 461.0
+================= THIS IS THE 15 ITERATION
+  Total 100 of mazes
+  Average: 523.77 Median: 500.0 MAX: 863.0 MIN: 449.0
+================= THIS IS THE 16 ITERATION
+  Total 100 of mazes
+  Average: 522.61 Median: 499.0 MAX: 902.0 MIN: 465.0
+================= THIS IS THE 17 ITERATION
+  Total 100 of mazes
+  Average: 522.35 Median: 502.0 MAX: 836.0 MIN: 450.0
+================= THIS IS THE 18 ITERATION
+  Total 100 of mazes
+  Average: 529.04 Median: 502.0 MAX: 848.0 MIN: 458.0
+================= THIS IS THE 19 ITERATION
+  Total 100 of mazes
+  Average: 520.92 Median: 503.0 MAX: 810.0 MIN: 451.0
+================= THIS IS THE 20 ITERATION
+  Total 100 of mazes
+  Average: 525.74 Median: 506.0 MAX: 908.0 MIN: 460.0
+================= THIS IS THE 21 ITERATION
+  Total 100 of mazes
+  Average: 537.87 Median: 507.0 MAX: 1031.0 MIN: 464.0
+================= THIS IS THE 22 ITERATION
+  Total 100 of mazes
+  Average: 530.03 Median: 505.0 MAX: 978.0 MIN: 472.0
+================= THIS IS THE 23 ITERATION
+  Total 100 of mazes
+  Average: 552.66 Median: 510.0 MAX: 1114.0 MIN: 460.0
+================= THIS IS THE 24 ITERATION
+  Total 100 of mazes
+  Average: 532.37 Median: 507.0 MAX: 966.0 MIN: 472.0
+================= THIS IS THE 25 ITERATION
+  Total 100 of mazes
+  Average: 547.25 Median: 507.0 MAX: 1208.0 MIN: 459.0
+================= THIS IS THE 26 ITERATION
+  Total 100 of mazes
+  Average: 550.03 Median: 509.0 MAX: 1216.0 MIN: 469.0
+================= THIS IS THE 27 ITERATION
+  Total 100 of mazes
+  Average: 550.63 Median: 512.0 MAX: 911.0 MIN: 463.0
+================= THIS IS THE 28 ITERATION
+  Total 100 of mazes
+  Average: 565.01 Median: 510.0 MAX: 1261.0 MIN: 466.0
+================= THIS IS THE 29 ITERATION
+  Total 100 of mazes
+  Average: 554.89 Median: 509.0 MAX: 1179.0 MIN: 473.0
+================= THIS IS THE 30 ITERATION
+  Total 100 of mazes
+  Average: 567.7 Median: 510.0 MAX: 1277.0 MIN: 471.0
+================= THIS IS THE 31 ITERATION
+  Total 100 of mazes
+  Average: 571.53 Median: 513.0 MAX: 1073.0 MIN: 467.0
+================= THIS IS THE 32 ITERATION
+  Total 100 of mazes
+  Average: 564.81 Median: 511.0 MAX: 1275.0 MIN: 471.0
+================= THIS IS THE 33 ITERATION
+  Total 100 of mazes
+  Average: 561.67 Median: 512.0 MAX: 1204.0 MIN: 474.0
+================= THIS IS THE 34 ITERATION
+  Total 100 of mazes
+  Average: 574.92 Median: 520.0 MAX: 1064.0 MIN: 463.0
+================= THIS IS THE 35 ITERATION
+  Total 100 of mazes
+  Average: 572.27 Median: 519.0 MAX: 1211.0 MIN: 457.0
+================= THIS IS THE 36 ITERATION
+  Total 100 of mazes
+  Average: 575.94 Median: 524.0 MAX: 1296.0 MIN: 471.0
+================= THIS IS THE 37 ITERATION
+  Total 100 of mazes
+  Average: 562.23 Median: 516.0 MAX: 1126.0 MIN: 465.0
+================= THIS IS THE 38 ITERATION
+  Total 100 of mazes
+  Average: 563.52 Median: 519.0 MAX: 1100.0 MIN: 457.0
+================= THIS IS THE 39 ITERATION
+  Total 100 of mazes
+  Average: 587.52 Median: 526.0 MAX: 1276.0 MIN: 467.0
+================= THIS IS THE 40 ITERATION
+  Total 100 of mazes
+  Average: 583.1 Median: 521.0 MAX: 1223.0 MIN: 452.0
+================= THIS IS THE 41 ITERATION
+  Total 100 of mazes
+  Average: 572.03 Median: 523.0 MAX: 1153.0 MIN: 466.0
+================= THIS IS THE 42 ITERATION
+  Total 100 of mazes
+  Average: 599.06 Median: 530.0 MAX: 1315.0 MIN: 466.0
+================= THIS IS THE 43 ITERATION
+  Total 100 of mazes
+  Average: 592.97 Median: 525.0 MAX: 1349.0 MIN: 471.0
+================= THIS IS THE 44 ITERATION
+  Total 100 of mazes
+  Average: 588.26 Median: 520.0 MAX: 1252.0 MIN: 471.0
+================= THIS IS THE 45 ITERATION
+  Total 100 of mazes
+  Average: 566.49 Median: 521.0 MAX: 1304.0 MIN: 464.0
+================= THIS IS THE 46 ITERATION
+  Total 100 of mazes
+  Average: 574.62 Median: 524.0 MAX: 1110.0 MIN: 471.0
+================= THIS IS THE 47 ITERATION
+  Total 100 of mazes
+  Average: 599.7 Median: 527.0 MAX: 1309.0 MIN: 470.0
+================= THIS IS THE 48 ITERATION
+  Total 100 of mazes
+  Average: 604.3 Median: 530.0 MAX: 1224.0 MIN: 465.0
+================= THIS IS THE 49 ITERATION
+  Total 100 of mazes
+  Average: 601.38 Median: 530.0 MAX: 1271.0 MIN: 475.0
+================= THIS IS THE 50 ITERATION
+  Total 100 of mazes
+  Average: 610.87 Median: 530.0 MAX: 1242.0 MIN: 472.0
+================= THIS IS THE 51 ITERATION
+  Total 100 of mazes
+  Average: 613.72 Median: 539.0 MAX: 1546.0 MIN: 468.0
+================= THIS IS THE 52 ITERATION
+  Total 100 of mazes
+  Average: 621.66 Median: 545.0 MAX: 1173.0 MIN: 474.0
+================= THIS IS THE 53 ITERATION
+  Total 100 of mazes
+  Average: 598.66 Median: 534.0 MAX: 1388.0 MIN: 466.0
+================= THIS IS THE 54 ITERATION
+  Total 100 of mazes
+  Average: 616.68 Median: 542.0 MAX: 1243.0 MIN: 474.0
+================= THIS IS THE 55 ITERATION
+  Total 100 of mazes
+  Average: 620.63 Median: 542.0 MAX: 1204.0 MIN: 475.0
+================= THIS IS THE 56 ITERATION
+  Total 100 of mazes
+  Average: 632.16 Median: 550.0 MAX: 1341.0 MIN: 471.0
+================= THIS IS THE 57 ITERATION
+  Total 100 of mazes
+  Average: 613.38 Median: 533.0 MAX: 1323.0 MIN: 478.0
+================= THIS IS THE 58 ITERATION
+  Total 100 of mazes
+  Average: 615.13 Median: 535.0 MAX: 1325.0 MIN: 479.0
+================= THIS IS THE 59 ITERATION
+  Total 100 of mazes
+  Average: 620.52 Median: 537.0 MAX: 1325.0 MIN: 476.0
+================= THIS IS THE 60 ITERATION
+  Total 100 of mazes
+  Average: 612.46 Median: 531.0 MAX: 1348.0 MIN: 469.0
+================= THIS IS THE 61 ITERATION
+  Total 100 of mazes
+  Average: 609.63 Median: 534.0 MAX: 1358.0 MIN: 476.0
+================= THIS IS THE 62 ITERATION
+  Total 100 of mazes
+  Average: 617.99 Median: 535.0 MAX: 1311.0 MIN: 469.0
+================= THIS IS THE 63 ITERATION
+  Total 100 of mazes
+  Average: 638.31 Median: 548.0 MAX: 1333.0 MIN: 470.0
+================= THIS IS THE 64 ITERATION
+  Total 100 of mazes
+  Average: 636.19 Median: 559.0 MAX: 1320.0 MIN: 465.0
+================= THIS IS THE 65 ITERATION
+  Total 100 of mazes
+  Average: 624.71 Median: 556.0 MAX: 1344.0 MIN: 466.0
+================= THIS IS THE 66 ITERATION
+  Total 100 of mazes
+  Average: 651.72 Median: 557.0 MAX: 1628.0 MIN: 475.0
+================= THIS IS THE 67 ITERATION
+  Total 100 of mazes
+  Average: 633.97 Median: 558.0 MAX: 1360.0 MIN: 466.0
+================= THIS IS THE 68 ITERATION
+  Total 100 of mazes
+  Average: 642.58 Median: 551.0 MAX: 1295.0 MIN: 473.0
+================= THIS IS THE 69 ITERATION
+  Total 100 of mazes
+  Average: 642.14 Median: 556.0 MAX: 1433.0 MIN: 469.0
+================= THIS IS THE 70 ITERATION
+  Total 100 of mazes
+  Average: 634.59 Median: 556.0 MAX: 1394.0 MIN: 468.0
+================= THIS IS THE 71 ITERATION
+  Total 100 of mazes
+  Average: 628.01 Median: 555.0 MAX: 1357.0 MIN: 473.0
+================= THIS IS THE 72 ITERATION
+  Total 100 of mazes
+  Average: 633.99 Median: 553.0 MAX: 1372.0 MIN: 471.0
+================= THIS IS THE 73 ITERATION
+  Total 100 of mazes
+  Average: 625.01 Median: 557.0 MAX: 1365.0 MIN: 463.0
+================= THIS IS THE 74 ITERATION
+  Total 100 of mazes
+  Average: 624.97 Median: 562.0 MAX: 1274.0 MIN: 471.0
+================= THIS IS THE 75 ITERATION
+  Total 100 of mazes
+  Average: 618.89 Median: 566.0 MAX: 1445.0 MIN: 463.0
+================= THIS IS THE 76 ITERATION
+  Total 100 of mazes
+  Average: 623.43 Median: 561.0 MAX: 1387.0 MIN: 476.0
+================= THIS IS THE 77 ITERATION
+  Total 100 of mazes
+  Average: 607.05 Median: 546.0 MAX: 1436.0 MIN: 472.0
+================= THIS IS THE 78 ITERATION
+  Total 100 of mazes
+  Average: 609.38 Median: 547.0 MAX: 1331.0 MIN: 473.0
+================= THIS IS THE 79 ITERATION
+  Total 100 of mazes
+  Average: 602.76 Median: 550.0 MAX: 1372.0 MIN: 474.0
+================= THIS IS THE 80 ITERATION
+  Total 100 of mazes
+  Average: 614.75 Median: 563.0 MAX: 1323.0 MIN: 479.0
+================= THIS IS THE 81 ITERATION
+  Total 100 of mazes
+  Average: 630.7 Median: 560.0 MAX: 1474.0 MIN: 480.0
+================= THIS IS THE 82 ITERATION
+  Total 100 of mazes
+  Average: 625.62 Median: 564.0 MAX: 1279.0 MIN: 478.0
+================= THIS IS THE 83 ITERATION
+  Total 100 of mazes
+  Average: 615.39 Median: 557.0 MAX: 1410.0 MIN: 492.0
+================= THIS IS THE 84 ITERATION
+  Total 100 of mazes
+  Average: 641.63 Median: 563.0 MAX: 2003.0 MIN: 486.0
+================= THIS IS THE 85 ITERATION
+  Total 100 of mazes
+  Average: 618.14 Median: 562.0 MAX: 1304.0 MIN: 487.0
+================= THIS IS THE 86 ITERATION
+  Total 100 of mazes
+  Average: 623.08 Median: 567.0 MAX: 1385.0 MIN: 478.0
+================= THIS IS THE 87 ITERATION
+  Total 100 of mazes
+  Average: 618.13 Median: 566.0 MAX: 1327.0 MIN: 456.0
+================= THIS IS THE 88 ITERATION
+  Total 100 of mazes
+  Average: 625.22 Median: 577.0 MAX: 1391.0 MIN: 487.0
+================= THIS IS THE 89 ITERATION
+  Total 100 of mazes
+  Average: 638.37 Median: 581.0 MAX: 1965.0 MIN: 458.0
+================= THIS IS THE 90 ITERATION
+  Total 100 of mazes
+  Average: 639.42 Median: 579.0 MAX: 1954.0 MIN: 458.0
+================= THIS IS THE 91 ITERATION
+  Total 100 of mazes
+  Average: 639.4 Median: 583.0 MAX: 1345.0 MIN: 474.0
+================= THIS IS THE 92 ITERATION
+  Total 100 of mazes
+  Average: 688.87 Median: 588.0 MAX: 1886.0 MIN: 478.0
+================= THIS IS THE 93 ITERATION
+  Total 100 of mazes
+  Average: 664.33 Median: 598.0 MAX: 1592.0 MIN: 481.0
+================= THIS IS THE 94 ITERATION
+  Total 100 of mazes
+  Average: 669.19 Median: 596.0 MAX: 1579.0 MIN: 481.0
+================= THIS IS THE 95 ITERATION
+  Total 100 of mazes
+  Average: 685.09 Median: 590.0 MAX: 1962.0 MIN: 481.0
+================= THIS IS THE 96 ITERATION
+  Total 100 of mazes
+  Average: 662.43 Median: 582.0 MAX: 1768.0 MIN: 481.0
+================= THIS IS THE 97 ITERATION
+  Total 100 of mazes
+  Average: 706.48 Median: 596.0 MAX: 1818.0 MIN: 481.0
+================= THIS IS THE 98 ITERATION
+  Total 100 of mazes
+  Average: 651.03 Median: 580.0 MAX: 1420.0 MIN: 460.0
+================= THIS IS THE 99 ITERATION
+  Total 100 of mazes
+  Average: 650.73 Median: 580.0 MAX: 1420.0 MIN: 464.0
+================= THIS IS THE 100 ITERATION
+  Total 100 of mazes
+  Average: 673.23 Median: 592.0 MAX: 1805.0 MIN: 489.0
+================= THIS IS THE 101 ITERATION
+  Total 100 of mazes
+  Average: 656.97 Median: 588.0 MAX: 1845.0 MIN: 477.0
+================= THIS IS THE 102 ITERATION
+  Total 100 of mazes
+  Average: 702.82 Median: 604.0 MAX: 1615.0 MIN: 489.0
+================= THIS IS THE 103 ITERATION
+  Total 100 of mazes
+  Average: 713.02 Median: 625.0 MAX: 1566.0 MIN: 494.0
+================= THIS IS THE 104 ITERATION
+  Total 100 of mazes
+  Average: 688.01 Median: 613.0 MAX: 1498.0 MIN: 494.0
+================= THIS IS THE 105 ITERATION
+  Total 100 of mazes
+  Average: 679.83 Median: 608.0 MAX: 1456.0 MIN: 500.0
+================= THIS IS THE 106 ITERATION
+  Total 100 of mazes
+  Average: 680.46 Median: 598.0 MAX: 1527.0 MIN: 477.0
+================= THIS IS THE 107 ITERATION
+  Total 100 of mazes
+  Average: 685.02 Median: 593.0 MAX: 1612.0 MIN: 477.0
+================= THIS IS THE 108 ITERATION
+  Total 100 of mazes
+  Average: 681.4 Median: 594.0 MAX: 1565.0 MIN: 488.0
+================= THIS IS THE 109 ITERATION
+  Total 100 of mazes
+  Average: 660.39 Median: 590.0 MAX: 1886.0 MIN: 484.0
+================= THIS IS THE 110 ITERATION
+  Total 100 of mazes
+  Average: 648.22 Median: 602.0 MAX: 1350.0 MIN: 487.0
+================= THIS IS THE 111 ITERATION
+  Total 100 of mazes
+  Average: 696.84 Median: 605.0 MAX: 2074.0 MIN: 489.0
+================= THIS IS THE 112 ITERATION
+  Total 100 of mazes
+  Average: 666.76 Median: 605.0 MAX: 1413.0 MIN: 488.0
+================= THIS IS THE 113 ITERATION
+  Total 100 of mazes
+  Average: 732.36 Median: 621.0 MAX: 3393.0 MIN: 467.0
+================= THIS IS THE 114 ITERATION
+  Total 100 of mazes
+  Average: 725.83 Median: 633.0 MAX: 3396.0 MIN: 468.0
+================= THIS IS THE 115 ITERATION
+  Total 100 of mazes
+  Average: 733.71 Median: 630.0 MAX: 3760.0 MIN: 468.0
+================= THIS IS THE 116 ITERATION
+  Total 100 of mazes
+  Average: 713.82 Median: 607.0 MAX: 3307.0 MIN: 484.0
+================= THIS IS THE 117 ITERATION
+  Total 100 of mazes
+  Average: 717.11 Median: 626.0 MAX: 2114.0 MIN: 482.0
+================= THIS IS THE 118 ITERATION
+  Total 100 of mazes
+  Average: 706.16 Median: 610.0 MAX: 2085.0 MIN: 503.0
+================= THIS IS THE 119 ITERATION
+  Total 100 of mazes
+  Average: 724.78 Median: 635.0 MAX: 1950.0 MIN: 498.0
+================= THIS IS THE 120 ITERATION
+  Total 100 of mazes
+  Average: 672.13 Median: 626.0 MAX: 1686.0 MIN: 487.0
+================= THIS IS THE 121 ITERATION
+  Total 100 of mazes
+  Average: 708.24 Median: 637.0 MAX: 1645.0 MIN: 501.0
+================= THIS IS THE 122 ITERATION
+  Total 100 of mazes
+  Average: 747.82 Median: 643.0 MAX: 1647.0 MIN: 505.0
+================= THIS IS THE 123 ITERATION
+  Total 100 of mazes
+  Average: 778.89 Median: 646.0 MAX: 3566.0 MIN: 498.0
+================= THIS IS THE 124 ITERATION
+  Total 100 of mazes
+  Average: 744.3 Median: 652.0 MAX: 3194.0 MIN: 493.0
+================= THIS IS THE 125 ITERATION
+  Total 100 of mazes
+  Average: 758.2 Median: 660.0 MAX: 3255.0 MIN: 507.0
+================= THIS IS THE 126 ITERATION
+  Total 100 of mazes
+  Average: 803.67 Median: 677.0 MAX: 3102.0 MIN: 495.0
+================= THIS IS THE 127 ITERATION
+  Total 100 of mazes
+  Average: 771.33 Median: 652.0 MAX: 3570.0 MIN: 510.0
+================= THIS IS THE 128 ITERATION
+  Total 100 of mazes
+  Average: 737.23 Median: 645.0 MAX: 3570.0 MIN: 501.0
+================= THIS IS THE 129 ITERATION
+  Total 100 of mazes
+  Average: 712.89 Median: 643.0 MAX: 1492.0 MIN: 505.0
+================= THIS IS THE 130 ITERATION
+  Total 100 of mazes
+  Average: 726.76 Median: 645.0 MAX: 2022.0 MIN: 495.0
+================= THIS IS THE 131 ITERATION
+  Total 100 of mazes
+  Average: 700.72 Median: 623.0 MAX: 2029.0 MIN: 470.0
+================= THIS IS THE 132 ITERATION
+  Total 100 of mazes
+  Average: 727.04 Median: 653.0 MAX: 1653.0 MIN: 495.0
+================= THIS IS THE 133 ITERATION
+  Total 100 of mazes
+  Average: 766.27 Median: 670.0 MAX: 3943.0 MIN: 504.0
+================= THIS IS THE 134 ITERATION
+  Total 100 of mazes
+  Average: 740.36 Median: 676.0 MAX: 1664.0 MIN: 509.0
+================= THIS IS THE 135 ITERATION
+  Total 100 of mazes
+  Average: 795.52 Median: 691.0 MAX: 2367.0 MIN: 474.0
+================= THIS IS THE 136 ITERATION
+  Total 100 of mazes
+  Average: 818.13 Median: 730.0 MAX: 2235.0 MIN: 468.0
+================= THIS IS THE 137 ITERATION
+  Total 100 of mazes
+  Average: 805.47 Median: 710.0 MAX: 2031.0 MIN: 466.0
+================= THIS IS THE 138 ITERATION
+  Total 100 of mazes
+  Average: 810.72 Median: 722.0 MAX: 2044.0 MIN: 466.0
+================= THIS IS THE 139 ITERATION
+  Total 100 of mazes
+  Average: 772.39 Median: 672.0 MAX: 1904.0 MIN: 465.0
+================= THIS IS THE 140 ITERATION
+  Total 100 of mazes
+  Average: 793.7 Median: 708.0 MAX: 2196.0 MIN: 467.0
+================= THIS IS THE 141 ITERATION
+  Total 100 of mazes
+  Average: 795.75 Median: 701.0 MAX: 2484.0 MIN: 467.0
+================= THIS IS THE 142 ITERATION
+  Total 100 of mazes
+  Average: 796.91 Median: 724.0 MAX: 2494.0 MIN: 464.0
+================= THIS IS THE 143 ITERATION
+  Total 100 of mazes
+  Average: 797.8 Median: 719.0 MAX: 2170.0 MIN: 464.0
+================= THIS IS THE 144 ITERATION
+  Total 100 of mazes
+  Average: 791.7 Median: 724.0 MAX: 1900.0 MIN: 468.0
+================= THIS IS THE 145 ITERATION
+  Total 100 of mazes
+  Average: 753.33 Median: 710.0 MAX: 1491.0 MIN: 538.0
+================= THIS IS THE 146 ITERATION
+  Total 100 of mazes
+  Average: 764.33 Median: 734.0 MAX: 1470.0 MIN: 467.0
+================= THIS IS THE 147 ITERATION
+  Total 100 of mazes
+  Average: 785.79 Median: 734.0 MAX: 1801.0 MIN: 467.0
+================= THIS IS THE 148 ITERATION
+  Total 100 of mazes
+  Average: 768.77 Median: 723.0 MAX: 1578.0 MIN: 525.0
+================= THIS IS THE 149 ITERATION
+  Total 100 of mazes
+  Average: 786.16 Median: 716.0 MAX: 1894.0 MIN: 490.0
+================= THIS IS THE 150 ITERATION
+  Total 100 of mazes
+  Average: 799.27 Median: 715.0 MAX: 1779.0 MIN: 467.0
+================= THIS IS THE 151 ITERATION
+  Total 100 of mazes
+  Average: 767.46 Median: 706.0 MAX: 1697.0 MIN: 472.0
+================= THIS IS THE 152 ITERATION
+  Total 100 of mazes
+  Average: 794.66 Median: 719.0 MAX: 2114.0 MIN: 516.0
+================= THIS IS THE 153 ITERATION
+  Total 100 of mazes
+  Average: 800.45 Median: 713.0 MAX: 2040.0 MIN: 484.0
+================= THIS IS THE 154 ITERATION
+  Total 100 of mazes
+  Average: 786.84 Median: 706.0 MAX: 1746.0 MIN: 483.0
+================= THIS IS THE 155 ITERATION
+  Total 100 of mazes
+  Average: 812.32 Median: 717.0 MAX: 2362.0 MIN: 494.0
+================= THIS IS THE 156 ITERATION
+  Total 100 of mazes
+  Average: 817.95 Median: 722.0 MAX: 2324.0 MIN: 504.0
+================= THIS IS THE 157 ITERATION
+  Total 100 of mazes
+  Average: 843.24 Median: 735.0 MAX: 2324.0 MIN: 482.0
+================= THIS IS THE 158 ITERATION
+  Total 100 of mazes
+  Average: 832.66 Median: 736.0 MAX: 1995.0 MIN: 481.0
+================= THIS IS THE 159 ITERATION
+  Total 100 of mazes
+  Average: 833.95 Median: 738.0 MAX: 1995.0 MIN: 482.0
+================= THIS IS THE 160 ITERATION
+  Total 100 of mazes
+  Average: 805.16 Median: 763.0 MAX: 1796.0 MIN: 479.0
+================= THIS IS THE 161 ITERATION
+  Total 100 of mazes
+  Average: 803.18 Median: 747.0 MAX: 1533.0 MIN: 515.0
+================= THIS IS THE 162 ITERATION
+  Total 100 of mazes
+  Average: 819.94 Median: 753.0 MAX: 1624.0 MIN: 506.0
+================= THIS IS THE 163 ITERATION
+  Total 100 of mazes
+  Average: 853.16 Median: 752.0 MAX: 1944.0 MIN: 510.0
+================= THIS IS THE 164 ITERATION
+  Total 100 of mazes
+  Average: 854.41 Median: 775.0 MAX: 1944.0 MIN: 533.0
+================= THIS IS THE 165 ITERATION
+  Total 100 of mazes
+  Average: 848.73 Median: 767.0 MAX: 1999.0 MIN: 508.0
+================= THIS IS THE 166 ITERATION
+  Total 100 of mazes
+  Average: 814.95 Median: 734.0 MAX: 1726.0 MIN: 518.0
+================= THIS IS THE 167 ITERATION
+  Total 100 of mazes
+  Average: 842.83 Median: 758.0 MAX: 1984.0 MIN: 518.0
+================= THIS IS THE 168 ITERATION
+  Total 100 of mazes
+  Average: 850.36 Median: 761.0 MAX: 1984.0 MIN: 518.0
+================= THIS IS THE 169 ITERATION
+  Total 100 of mazes
+  Average: 853.05 Median: 766.0 MAX: 1973.0 MIN: 514.0
+================= THIS IS THE 170 ITERATION
+  Total 100 of mazes
+  Average: 838.54 Median: 772.0 MAX: 1690.0 MIN: 523.0
+================= THIS IS THE 171 ITERATION
+  Total 100 of mazes
+  Average: 819.42 Median: 764.0 MAX: 1598.0 MIN: 514.0
+================= THIS IS THE 172 ITERATION
+  Total 100 of mazes
+  Average: 813.0 Median: 766.0 MAX: 1506.0 MIN: 505.0
+================= THIS IS THE 173 ITERATION
+  Total 100 of mazes
+  Average: 874.72 Median: 833.0 MAX: 2124.0 MIN: 496.0
+================= THIS IS THE 174 ITERATION
+  Total 100 of mazes
+  Average: 856.64 Median: 790.0 MAX: 2289.0 MIN: 505.0
+================= THIS IS THE 175 ITERATION
+  Total 100 of mazes
+  Average: 828.32 Median: 772.0 MAX: 2074.0 MIN: 500.0
+================= THIS IS THE 176 ITERATION
+  Total 100 of mazes
+  Average: 848.61 Median: 772.0 MAX: 2075.0 MIN: 501.0
+================= THIS IS THE 177 ITERATION
+  Total 100 of mazes
+  Average: 858.22 Median: 771.0 MAX: 2075.0 MIN: 501.0
+================= THIS IS THE 178 ITERATION
+  Total 100 of mazes
+  Average: 786.09 Median: 716.0 MAX: 1616.0 MIN: 501.0
+================= THIS IS THE 179 ITERATION
+  Total 100 of mazes
+  Average: 813.5 Median: 749.0 MAX: 2051.0 MIN: 502.0
+================= THIS IS THE 180 ITERATION
+  Total 100 of mazes
+  Average: 781.04 Median: 730.0 MAX: 1480.0 MIN: 503.0
+================= THIS IS THE 181 ITERATION
+  Total 100 of mazes
+  Average: 766.41 Median: 726.0 MAX: 1381.0 MIN: 496.0
+================= THIS IS THE 182 ITERATION
+  Total 100 of mazes
+  Average: 762.62 Median: 741.0 MAX: 1381.0 MIN: 504.0
+================= THIS IS THE 183 ITERATION
+  Total 100 of mazes
+  Average: 759.77 Median: 743.0 MAX: 1381.0 MIN: 500.0
+================= THIS IS THE 184 ITERATION
+  Total 100 of mazes
+  Average: 756.28 Median: 735.0 MAX: 1355.0 MIN: 500.0
+================= THIS IS THE 185 ITERATION
+  Total 100 of mazes
+  Average: 759.11 Median: 717.0 MAX: 1492.0 MIN: 500.0
+================= THIS IS THE 186 ITERATION
+  Total 100 of mazes
+  Average: 789.1 Median: 698.0 MAX: 1527.0 MIN: 500.0
+================= THIS IS THE 187 ITERATION
+  Total 100 of mazes
+  Average: 788.16 Median: 738.0 MAX: 1441.0 MIN: 488.0
+================= THIS IS THE 188 ITERATION
+  Total 100 of mazes
+  Average: 790.99 Median: 759.0 MAX: 1328.0 MIN: 506.0
+================= THIS IS THE 189 ITERATION
+  Total 100 of mazes
+  Average: 799.35 Median: 768.0 MAX: 1362.0 MIN: 491.0
+================= THIS IS THE 190 ITERATION
+  Total 100 of mazes
+  Average: 811.51 Median: 761.0 MAX: 1554.0 MIN: 492.0
+================= THIS IS THE 191 ITERATION
+  Total 100 of mazes
+  Average: 792.74 Median: 755.0 MAX: 1410.0 MIN: 489.0
+================= THIS IS THE 192 ITERATION
+  Total 100 of mazes
+  Average: 778.99 Median: 743.0 MAX: 1275.0 MIN: 489.0
+================= THIS IS THE 193 ITERATION
+  Total 100 of mazes
+  Average: 755.74 Median: 730.0 MAX: 1275.0 MIN: 489.0
+================= THIS IS THE 194 ITERATION
+  Total 100 of mazes
+  Average: 770.88 Median: 742.0 MAX: 1262.0 MIN: 491.0
+================= THIS IS THE 195 ITERATION
+  Total 100 of mazes
+  Average: 751.44 Median: 730.0 MAX: 1302.0 MIN: 491.0
+================= THIS IS THE 196 ITERATION
+  Total 100 of mazes
+  Average: 746.67 Median: 699.0 MAX: 1286.0 MIN: 498.0
+================= THIS IS THE 197 ITERATION
+  Total 100 of mazes
+  Average: 746.88 Median: 705.0 MAX: 1276.0 MIN: 502.0
+================= THIS IS THE 198 ITERATION
+  Total 100 of mazes
+  Average: 719.89 Median: 691.0 MAX: 1325.0 MIN: 502.0
+================= THIS IS THE 199 ITERATION
+  Total 100 of mazes
+  Average: 738.64 Median: 714.0 MAX: 1356.0 MIN: 469.0
+================= THIS IS THE 200 ITERATION
+  Total 100 of mazes
+  Average: 720.36 Median: 699.0 MAX: 1165.0 MIN: 506.0
+================= THIS IS THE 201 ITERATION
+  Total 100 of mazes
+  Average: 715.14 Median: 693.0 MAX: 1267.0 MIN: 489.0
+================= THIS IS THE 202 ITERATION
+  Total 100 of mazes
+  Average: 716.15 Median: 693.0 MAX: 1264.0 MIN: 489.0
+================= THIS IS THE 203 ITERATION
+  Total 100 of mazes
+  Average: 709.39 Median: 685.0 MAX: 1199.0 MIN: 485.0
+================= THIS IS THE 204 ITERATION
+  Total 100 of mazes
+  Average: 710.04 Median: 680.0 MAX: 1255.0 MIN: 499.0
+================= THIS IS THE 205 ITERATION
+  Total 100 of mazes
+  Average: 684.35 Median: 668.0 MAX: 1135.0 MIN: 478.0
+================= THIS IS THE 206 ITERATION
+  Total 100 of mazes
+  Average: 692.31 Median: 671.0 MAX: 1226.0 MIN: 493.0
+================= THIS IS THE 207 ITERATION
+  Total 100 of mazes
+  Average: 688.14 Median: 669.0 MAX: 1446.0 MIN: 470.0
+================= THIS IS THE 208 ITERATION
+  Total 100 of mazes
+  Average: 702.18 Median: 677.0 MAX: 1436.0 MIN: 470.0
+================= THIS IS THE 209 ITERATION
+  Total 100 of mazes
+  Average: 694.82 Median: 663.0 MAX: 1444.0 MIN: 470.0
+================= THIS IS THE 210 ITERATION
+  Total 100 of mazes
+  Average: 672.28 Median: 673.0 MAX: 1133.0 MIN: 470.0
+================= THIS IS THE 211 ITERATION
+  Total 100 of mazes
+  Average: 676.75 Median: 674.0 MAX: 1186.0 MIN: 470.0
+================= THIS IS THE 212 ITERATION
+  Total 100 of mazes
+  Average: 655.43 Median: 659.0 MAX: 1186.0 MIN: 474.0
+================= THIS IS THE 213 ITERATION
+  Total 100 of mazes
+  Average: 658.42 Median: 656.0 MAX: 931.0 MIN: 470.0
+================= THIS IS THE 214 ITERATION
+  Total 100 of mazes
+  Average: 653.16 Median: 656.0 MAX: 1004.0 MIN: 470.0
+================= THIS IS THE 215 ITERATION
+  Total 100 of mazes
+  Average: 645.56 Median: 649.0 MAX: 1004.0 MIN: 470.0
+================= THIS IS THE 216 ITERATION
+  Total 100 of mazes
+  Average: 646.29 Median: 641.0 MAX: 901.0 MIN: 470.0
+================= THIS IS THE 217 ITERATION
+  Total 100 of mazes
+  Average: 661.43 Median: 654.0 MAX: 927.0 MIN: 470.0
+================= THIS IS THE 218 ITERATION
+  Total 100 of mazes
+  Average: 649.59 Median: 650.0 MAX: 908.0 MIN: 486.0
+================= THIS IS THE 219 ITERATION
+  Total 100 of mazes
+  Average: 644.58 Median: 643.0 MAX: 899.0 MIN: 484.0
+================= THIS IS THE 220 ITERATION
+  Total 100 of mazes
+  Average: 635.22 Median: 634.0 MAX: 927.0 MIN: 484.0
+================= THIS IS THE 221 ITERATION
+  Total 100 of mazes
+  Average: 640.21 Median: 634.0 MAX: 927.0 MIN: 487.0
+================= THIS IS THE 222 ITERATION
+  Total 100 of mazes
+  Average: 630.37 Median: 615.0 MAX: 904.0 MIN: 483.0
+================= THIS IS THE 223 ITERATION
+  Total 100 of mazes
+  Average: 635.88 Median: 620.0 MAX: 893.0 MIN: 483.0
+================= THIS IS THE 224 ITERATION
+  Total 100 of mazes
+  Average: 636.53 Median: 617.0 MAX: 899.0 MIN: 487.0
+================= THIS IS THE 225 ITERATION
+  Total 100 of mazes
+  Average: 615.99 Median: 603.0 MAX: 899.0 MIN: 481.0
+================= THIS IS THE 226 ITERATION
+  Total 100 of mazes
+  Average: 624.06 Median: 617.0 MAX: 893.0 MIN: 481.0
+================= THIS IS THE 227 ITERATION
+  Total 100 of mazes
+  Average: 623.98 Median: 601.0 MAX: 901.0 MIN: 481.0
+================= THIS IS THE 228 ITERATION
+  Total 100 of mazes
+  Average: 630.04 Median: 601.0 MAX: 902.0 MIN: 481.0
+================= THIS IS THE 229 ITERATION
+  Total 100 of mazes
+  Average: 635.35 Median: 614.0 MAX: 917.0 MIN: 481.0
+================= THIS IS THE 230 ITERATION
+  Total 100 of mazes
+  Average: 625.92 Median: 606.0 MAX: 917.0 MIN: 481.0
+================= THIS IS THE 231 ITERATION
+  Total 100 of mazes
+  Average: 624.01 Median: 594.0 MAX: 928.0 MIN: 478.0
+================= THIS IS THE 232 ITERATION
+  Total 100 of mazes
+  Average: 624.75 Median: 600.0 MAX: 928.0 MIN: 478.0
+================= THIS IS THE 233 ITERATION
+  Total 100 of mazes
+  Average: 621.51 Median: 597.0 MAX: 903.0 MIN: 481.0
+================= THIS IS THE 234 ITERATION
+  Total 100 of mazes
+  Average: 620.61 Median: 588.0 MAX: 905.0 MIN: 481.0
+================= THIS IS THE 235 ITERATION
+  Total 100 of mazes
+  Average: 632.67 Median: 620.0 MAX: 898.0 MIN: 481.0
+================= THIS IS THE 236 ITERATION
+  Total 100 of mazes
+  Average: 616.64 Median: 597.0 MAX: 899.0 MIN: 481.0
+================= THIS IS THE 237 ITERATION
+  Total 100 of mazes
+  Average: 632.79 Median: 614.0 MAX: 899.0 MIN: 482.0
+================= THIS IS THE 238 ITERATION
+  Total 100 of mazes
+  Average: 617.74 Median: 597.0 MAX: 843.0 MIN: 482.0
+================= THIS IS THE 239 ITERATION
+  Total 100 of mazes
+  Average: 622.27 Median: 600.0 MAX: 899.0 MIN: 491.0
+================= THIS IS THE 240 ITERATION
+  Total 100 of mazes
+  Average: 622.29 Median: 614.0 MAX: 899.0 MIN: 486.0
+================= THIS IS THE 241 ITERATION
+  Total 100 of mazes
+  Average: 625.47 Median: 625.0 MAX: 890.0 MIN: 484.0
+================= THIS IS THE 242 ITERATION
+  Total 100 of mazes
+  Average: 618.82 Median: 617.0 MAX: 880.0 MIN: 487.0
+================= THIS IS THE 243 ITERATION
+  Total 100 of mazes
+  Average: 622.56 Median: 605.0 MAX: 899.0 MIN: 486.0
+================= THIS IS THE 244 ITERATION
+  Total 100 of mazes
+  Average: 628.85 Median: 620.0 MAX: 821.0 MIN: 486.0
+================= THIS IS THE 245 ITERATION
+  Total 100 of mazes
+  Average: 621.24 Median: 616.0 MAX: 900.0 MIN: 486.0
+================= THIS IS THE 246 ITERATION
+  Total 100 of mazes
+  Average: 620.16 Median: 619.0 MAX: 892.0 MIN: 486.0
+================= THIS IS THE 247 ITERATION
+  Total 100 of mazes
+  Average: 623.23 Median: 622.0 MAX: 893.0 MIN: 486.0
+================= THIS IS THE 248 ITERATION
+  Total 100 of mazes
+  Average: 613.78 Median: 597.0 MAX: 901.0 MIN: 486.0
+================= THIS IS THE 249 ITERATION
+  Total 100 of mazes
+  Average: 621.37 Median: 619.0 MAX: 893.0 MIN: 475.0
+================= THIS IS THE 250 ITERATION
+  Total 100 of mazes
+  Average: 623.46 Median: 604.0 MAX: 901.0 MIN: 474.0
+================= THIS IS THE 251 ITERATION
+  Total 100 of mazes
+  Average: 619.34 Median: 604.0 MAX: 900.0 MIN: 474.0
+================= THIS IS THE 252 ITERATION
+  Total 100 of mazes
+  Average: 631.7 Median: 618.0 MAX: 900.0 MIN: 474.0
+================= THIS IS THE 253 ITERATION
+  Total 100 of mazes
+  Average: 629.67 Median: 625.0 MAX: 881.0 MIN: 489.0
+================= THIS IS THE 254 ITERATION
+  Total 100 of mazes
+  Average: 626.46 Median: 621.0 MAX: 885.0 MIN: 476.0
+================= THIS IS THE 255 ITERATION
+  Total 100 of mazes
+  Average: 608.34 Median: 604.0 MAX: 881.0 MIN: 476.0
+================= THIS IS THE 256 ITERATION
+  Total 100 of mazes
+  Average: 617.69 Median: 613.0 MAX: 900.0 MIN: 486.0
+================= THIS IS THE 257 ITERATION
+  Total 100 of mazes
+  Average: 621.96 Median: 619.0 MAX: 901.0 MIN: 486.0
+================= THIS IS THE 258 ITERATION
+  Total 100 of mazes
+  Average: 605.39 Median: 598.0 MAX: 885.0 MIN: 476.0
+================= THIS IS THE 259 ITERATION
+  Total 100 of mazes
+  Average: 616.52 Median: 613.0 MAX: 898.0 MIN: 476.0
+================= THIS IS THE 260 ITERATION
+  Total 100 of mazes
+  Average: 617.1 Median: 615.0 MAX: 901.0 MIN: 476.0
+================= THIS IS THE 261 ITERATION
+  Total 100 of mazes
+  Average: 613.96 Median: 609.0 MAX: 901.0 MIN: 476.0
+================= THIS IS THE 262 ITERATION
+  Total 100 of mazes
+  Average: 624.12 Median: 618.0 MAX: 901.0 MIN: 476.0
+================= THIS IS THE 263 ITERATION
+  Total 100 of mazes
+  Average: 626.73 Median: 617.0 MAX: 899.0 MIN: 476.0
+================= THIS IS THE 264 ITERATION
+  Total 100 of mazes
+  Average: 621.84 Median: 620.0 MAX: 899.0 MIN: 476.0
+================= THIS IS THE 265 ITERATION
+  Total 100 of mazes
+  Average: 630.2 Median: 615.0 MAX: 899.0 MIN: 478.0
+================= THIS IS THE 266 ITERATION
+  Total 100 of mazes
+  Average: 627.85 Median: 624.0 MAX: 903.0 MIN: 478.0
+================= THIS IS THE 267 ITERATION
+  Total 100 of mazes
+  Average: 633.87 Median: 621.0 MAX: 898.0 MIN: 477.0
+================= THIS IS THE 268 ITERATION
+  Total 100 of mazes
+  Average: 627.65 Median: 621.0 MAX: 898.0 MIN: 477.0
+================= THIS IS THE 269 ITERATION
+  Total 100 of mazes
+  Average: 629.84 Median: 627.0 MAX: 898.0 MIN: 492.0
+================= THIS IS THE 270 ITERATION
+  Total 100 of mazes
+  Average: 633.32 Median: 627.0 MAX: 898.0 MIN: 478.0
+================= THIS IS THE 271 ITERATION
+  Total 100 of mazes
+  Average: 612.21 Median: 610.0 MAX: 903.0 MIN: 464.0
+================= THIS IS THE 272 ITERATION
+  Total 100 of mazes
+  Average: 626.34 Median: 621.0 MAX: 903.0 MIN: 469.0
+================= THIS IS THE 273 ITERATION
+  Total 100 of mazes
+  Average: 621.47 Median: 621.0 MAX: 894.0 MIN: 469.0
+================= THIS IS THE 274 ITERATION
+  Total 100 of mazes
+  Average: 613.58 Median: 615.0 MAX: 894.0 MIN: 466.0
+================= THIS IS THE 275 ITERATION
+  Total 100 of mazes
+  Average: 621.48 Median: 616.0 MAX: 873.0 MIN: 465.0
+================= THIS IS THE 276 ITERATION
+  Total 100 of mazes
+  Average: 629.49 Median: 615.0 MAX: 878.0 MIN: 470.0
+================= THIS IS THE 277 ITERATION
+  Total 100 of mazes
+  Average: 613.71 Median: 602.0 MAX: 878.0 MIN: 470.0
+================= THIS IS THE 278 ITERATION
+  Total 100 of mazes
+  Average: 624.46 Median: 612.0 MAX: 878.0 MIN: 470.0
+================= THIS IS THE 279 ITERATION
+  Total 100 of mazes
+  Average: 614.14 Median: 602.0 MAX: 878.0 MIN: 470.0
+================= THIS IS THE 280 ITERATION
+  Total 100 of mazes
+  Average: 627.2 Median: 615.0 MAX: 878.0 MIN: 492.0
+================= THIS IS THE 281 ITERATION
+  Total 100 of mazes
+  Average: 616.06 Median: 609.0 MAX: 851.0 MIN: 465.0
+================= THIS IS THE 282 ITERATION
+  Total 100 of mazes
+  Average: 605.27 Median: 577.0 MAX: 856.0 MIN: 465.0
+================= THIS IS THE 283 ITERATION
+  Total 100 of mazes
+  Average: 605.63 Median: 578.0 MAX: 856.0 MIN: 465.0
+================= THIS IS THE 284 ITERATION
+  Total 100 of mazes
+  Average: 614.24 Median: 612.0 MAX: 870.0 MIN: 465.0
+================= THIS IS THE 285 ITERATION
+  Total 100 of mazes
+  Average: 613.8 Median: 616.0 MAX: 870.0 MIN: 465.0
+================= THIS IS THE 286 ITERATION
+  Total 100 of mazes
+  Average: 618.39 Median: 617.0 MAX: 844.0 MIN: 465.0
+================= THIS IS THE 287 ITERATION
+  Total 100 of mazes
+  Average: 618.79 Median: 610.0 MAX: 870.0 MIN: 463.0
+================= THIS IS THE 288 ITERATION
+  Total 100 of mazes
+  Average: 616.81 Median: 611.0 MAX: 870.0 MIN: 463.0
+================= THIS IS THE 289 ITERATION
+  Total 100 of mazes
+  Average: 611.46 Median: 605.0 MAX: 853.0 MIN: 465.0
+================= THIS IS THE 290 ITERATION
+  Total 100 of mazes
+  Average: 613.72 Median: 591.0 MAX: 853.0 MIN: 465.0
+================= THIS IS THE 291 ITERATION
+  Total 100 of mazes
+  Average: 607.01 Median: 600.0 MAX: 853.0 MIN: 453.0
+================= THIS IS THE 292 ITERATION
+  Total 100 of mazes
+  Average: 621.34 Median: 611.0 MAX: 853.0 MIN: 453.0
+================= THIS IS THE 293 ITERATION
+  Total 100 of mazes
+  Average: 624.23 Median: 616.0 MAX: 854.0 MIN: 465.0
+================= THIS IS THE 294 ITERATION
+  Total 100 of mazes
+  Average: 622.45 Median: 615.0 MAX: 854.0 MIN: 465.0
+================= THIS IS THE 295 ITERATION
+  Total 100 of mazes
+  Average: 624.82 Median: 615.0 MAX: 854.0 MIN: 465.0
+================= THIS IS THE 296 ITERATION
+  Total 100 of mazes
+  Average: 619.56 Median: 615.0 MAX: 851.0 MIN: 465.0
+================= THIS IS THE 297 ITERATION
+  Total 100 of mazes
+  Average: 629.39 Median: 620.0 MAX: 851.0 MIN: 465.0
+================= THIS IS THE 298 ITERATION
+  Total 100 of mazes
+  Average: 617.66 Median: 600.0 MAX: 851.0 MIN: 465.0
+================= THIS IS THE 299 ITERATION
+  Total 100 of mazes
+  Average: 614.32 Median: 600.0 MAX: 851.0 MIN: 465.0
+================= THIS IS THE 300 ITERATION
+  Total 100 of mazes
+  Average: 616.87 Median: 614.0 MAX: 846.0 MIN: 465.0
+================= THIS IS THE 301 ITERATION
+  Total 100 of mazes
+  Average: 612.95 Median: 600.0 MAX: 843.0 MIN: 465.0
+================= THIS IS THE 302 ITERATION
+  Total 100 of mazes
+  Average: 608.76 Median: 600.0 MAX: 843.0 MIN: 465.0
+================= THIS IS THE 303 ITERATION
+  Total 100 of mazes
+  Average: 615.83 Median: 606.0 MAX: 846.0 MIN: 465.0
+================= THIS IS THE 304 ITERATION
+  Total 100 of mazes
+  Average: 611.49 Median: 600.0 MAX: 846.0 MIN: 465.0
+================= THIS IS THE 305 ITERATION
+  Total 100 of mazes
+  Average: 600.83 Median: 587.0 MAX: 846.0 MIN: 465.0
+================= THIS IS THE 306 ITERATION
+  Total 100 of mazes
+  Average: 598.13 Median: 571.0 MAX: 847.0 MIN: 466.0
+================= THIS IS THE 307 ITERATION
+  Total 100 of mazes
+  Average: 604.38 Median: 571.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 308 ITERATION
+  Total 100 of mazes
+  Average: 599.32 Median: 571.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 309 ITERATION
+  Total 100 of mazes
+  Average: 611.02 Median: 605.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 310 ITERATION
+  Total 100 of mazes
+  Average: 599.64 Median: 565.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 311 ITERATION
+  Total 100 of mazes
+  Average: 619.13 Median: 613.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 312 ITERATION
+  Total 100 of mazes
+  Average: 619.88 Median: 610.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 313 ITERATION
+  Total 100 of mazes
+  Average: 611.02 Median: 605.0 MAX: 807.0 MIN: 453.0
+================= THIS IS THE 314 ITERATION
+  Total 100 of mazes
+  Average: 619.88 Median: 605.0 MAX: 847.0 MIN: 465.0
+================= THIS IS THE 315 ITERATION
+  Total 100 of mazes
+  Average: 613.53 Median: 604.0 MAX: 847.0 MIN: 453.0
+================= THIS IS THE 316 ITERATION
+  Total 100 of mazes
+  Average: 609.5 Median: 602.0 MAX: 847.0 MIN: 453.0
+================= THIS IS THE 317 ITERATION
+  Total 100 of mazes
+  Average: 599.0 Median: 571.0 MAX: 847.0 MIN: 453.0
+================= THIS IS THE 318 ITERATION
+  Total 100 of mazes
+  Average: 606.88 Median: 600.0 MAX: 847.0 MIN: 453.0
+================= THIS IS THE 319 ITERATION
+  Total 100 of mazes
+  Average: 603.86 Median: 589.0 MAX: 847.0 MIN: 453.0
+================= THIS IS THE 320 ITERATION
+  Total 100 of mazes
+  Average: 597.53 Median: 570.0 MAX: 848.0 MIN: 453.0
+================= THIS IS THE 321 ITERATION
+  Total 100 of mazes
+  Average: 590.41 Median: 566.0 MAX: 848.0 MIN: 453.0
+================= THIS IS THE 322 ITERATION
+  Total 100 of mazes
+  Average: 600.46 Median: 588.0 MAX: 817.0 MIN: 453.0
+================= THIS IS THE 323 ITERATION
+  Total 100 of mazes
+  Average: 611.9 Median: 605.0 MAX: 817.0 MIN: 453.0
+================= THIS IS THE 324 ITERATION
+  Total 100 of mazes
+  Average: 604.17 Median: 570.0 MAX: 848.0 MIN: 453.0
+================= THIS IS THE 325 ITERATION
+  Total 100 of mazes
+  Average: 584.59 Median: 563.0 MAX: 822.0 MIN: 453.0
+================= THIS IS THE 326 ITERATION
+  Total 100 of mazes
+  Average: 599.16 Median: 567.0 MAX: 815.0 MIN: 453.0
+================= THIS IS THE 327 ITERATION
+  Total 100 of mazes
+  Average: 607.5 Median: 577.0 MAX: 826.0 MIN: 453.0
+================= THIS IS THE 328 ITERATION
+  Total 100 of mazes
+  Average: 612.6 Median: 602.0 MAX: 826.0 MIN: 455.0
+================= THIS IS THE 329 ITERATION
+  Total 100 of mazes
+  Average: 609.6 Median: 605.0 MAX: 826.0 MIN: 455.0
+================= THIS IS THE 330 ITERATION
+  Total 100 of mazes
+  Average: 619.28 Median: 602.0 MAX: 826.0 MIN: 465.0
+================= THIS IS THE 331 ITERATION
+  Total 100 of mazes
+  Average: 615.36 Median: 607.0 MAX: 826.0 MIN: 455.0
+================= THIS IS THE 332 ITERATION
+  Total 100 of mazes
+  Average: 611.21 Median: 600.0 MAX: 826.0 MIN: 465.0
+================= THIS IS THE 333 ITERATION
+  Total 100 of mazes
+  Average: 611.99 Median: 601.0 MAX: 826.0 MIN: 465.0
+================= THIS IS THE 334 ITERATION
+  Total 100 of mazes
+  Average: 620.31 Median: 608.0 MAX: 822.0 MIN: 455.0
+================= THIS IS THE 335 ITERATION
+  Total 100 of mazes
+  Average: 620.48 Median: 609.0 MAX: 815.0 MIN: 455.0
+================= THIS IS THE 336 ITERATION
+  Total 100 of mazes
+  Average: 619.03 Median: 605.0 MAX: 822.0 MIN: 455.0
+================= THIS IS THE 337 ITERATION
+  Total 100 of mazes
+  Average: 616.8 Median: 608.0 MAX: 822.0 MIN: 455.0
+================= THIS IS THE 338 ITERATION
+  Total 100 of mazes
+  Average: 607.7 Median: 605.0 MAX: 822.0 MIN: 455.0
+================= THIS IS THE 339 ITERATION
+  Total 100 of mazes
+  Average: 613.46 Median: 608.0 MAX: 822.0 MIN: 455.0
+================= THIS IS THE 340 ITERATION
+  Total 100 of mazes
+  Average: 598.51 Median: 601.0 MAX: 828.0 MIN: 455.0
+================= THIS IS THE 341 ITERATION
+  Total 100 of mazes
+  Average: 608.61 Median: 605.0 MAX: 828.0 MIN: 455.0
+================= THIS IS THE 342 ITERATION
+  Total 100 of mazes
+  Average: 626.46 Median: 611.0 MAX: 820.0 MIN: 455.0
+================= THIS IS THE 343 ITERATION
+  Total 100 of mazes
+  Average: 617.4 Median: 605.0 MAX: 842.0 MIN: 455.0
+================= THIS IS THE 344 ITERATION
+  Total 100 of mazes
+  Average: 605.12 Median: 568.0 MAX: 842.0 MIN: 457.0
+================= THIS IS THE 345 ITERATION
+  Total 100 of mazes
+  Average: 608.02 Median: 603.0 MAX: 843.0 MIN: 457.0
+================= THIS IS THE 346 ITERATION
+  Total 100 of mazes
+  Average: 601.7 Median: 601.0 MAX: 843.0 MIN: 457.0
+================= THIS IS THE 347 ITERATION
+  Total 100 of mazes
+  Average: 608.9 Median: 582.0 MAX: 843.0 MIN: 457.0
+================= THIS IS THE 348 ITERATION
+  Total 100 of mazes
+  Average: 608.87 Median: 603.0 MAX: 843.0 MIN: 457.0
+================= THIS IS THE 349 ITERATION
+  Total 100 of mazes
+  Average: 611.03 Median: 607.0 MAX: 843.0 MIN: 457.0
+================= THIS IS THE 350 ITERATION
+  Total 100 of mazes
+  Average: 597.62 Median: 582.0 MAX: 812.0 MIN: 457.0
+================= THIS IS THE 351 ITERATION
+  Total 100 of mazes
+  Average: 600.82 Median: 601.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 352 ITERATION
+  Total 100 of mazes
+  Average: 594.35 Median: 564.0 MAX: 852.0 MIN: 457.0
+================= THIS IS THE 353 ITERATION
+  Total 100 of mazes
+  Average: 607.11 Median: 601.0 MAX: 842.0 MIN: 457.0
+================= THIS IS THE 354 ITERATION
+  Total 100 of mazes
+  Average: 618.78 Median: 609.0 MAX: 852.0 MIN: 458.0
+================= THIS IS THE 355 ITERATION
+  Total 100 of mazes
+  Average: 608.62 Median: 577.0 MAX: 852.0 MIN: 457.0
+================= THIS IS THE 356 ITERATION
+  Total 100 of mazes
+  Average: 604.17 Median: 568.0 MAX: 852.0 MIN: 457.0
+================= THIS IS THE 357 ITERATION
+  Total 100 of mazes
+  Average: 609.31 Median: 601.0 MAX: 852.0 MIN: 457.0
+================= THIS IS THE 358 ITERATION
+  Total 100 of mazes
+  Average: 608.59 Median: 601.0 MAX: 842.0 MIN: 457.0
+================= THIS IS THE 359 ITERATION
+  Total 100 of mazes
+  Average: 609.02 Median: 598.0 MAX: 814.0 MIN: 457.0
+================= THIS IS THE 360 ITERATION
+  Total 100 of mazes
+  Average: 604.03 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 361 ITERATION
+  Total 100 of mazes
+  Average: 608.19 Median: 598.0 MAX: 852.0 MIN: 457.0
+================= THIS IS THE 362 ITERATION
+  Total 100 of mazes
+  Average: 600.67 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 363 ITERATION
+  Total 100 of mazes
+  Average: 592.39 Median: 568.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 364 ITERATION
+  Total 100 of mazes
+  Average: 591.52 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 365 ITERATION
+  Total 100 of mazes
+  Average: 605.23 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 366 ITERATION
+  Total 100 of mazes
+  Average: 601.89 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 367 ITERATION
+  Total 100 of mazes
+  Average: 597.05 Median: 569.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 368 ITERATION
+  Total 100 of mazes
+  Average: 595.18 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 369 ITERATION
+  Total 100 of mazes
+  Average: 597.95 Median: 574.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 370 ITERATION
+  Total 100 of mazes
+  Average: 604.09 Median: 598.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 371 ITERATION
+  Total 100 of mazes
+  Average: 600.46 Median: 577.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 372 ITERATION
+  Total 100 of mazes
+  Average: 608.31 Median: 600.0 MAX: 849.0 MIN: 457.0
+================= THIS IS THE 373 ITERATION
+  Total 100 of mazes
+  Average: 604.47 Median: 574.0 MAX: 850.0 MIN: 457.0
+================= THIS IS THE 374 ITERATION
+  Total 100 of mazes
+  Average: 599.63 Median: 571.0 MAX: 850.0 MIN: 457.0
+================= THIS IS THE 375 ITERATION
+  Total 100 of mazes
+  Average: 601.76 Median: 574.0 MAX: 850.0 MIN: 457.0
+================= THIS IS THE 376 ITERATION
+  Total 100 of mazes
+  Average: 593.48 Median: 572.0 MAX: 850.0 MIN: 457.0
+================= THIS IS THE 377 ITERATION
+  Total 100 of mazes
+  Average: 602.22 Median: 593.0 MAX: 850.0 MIN: 457.0
+================= THIS IS THE 378 ITERATION
+  Total 100 of mazes
+  Average: 594.06 Median: 570.0 MAX: 810.0 MIN: 457.0
+================= THIS IS THE 379 ITERATION
+  Total 100 of mazes
+  Average: 613.36 Median: 612.0 MAX: 850.0 MIN: 460.0
+================= THIS IS THE 380 ITERATION
+  Total 100 of mazes
+  Average: 615.14 Median: 612.0 MAX: 851.0 MIN: 460.0
+================= THIS IS THE 381 ITERATION
+  Total 100 of mazes
+  Average: 605.36 Median: 603.0 MAX: 851.0 MIN: 460.0
+================= THIS IS THE 382 ITERATION
+  Total 100 of mazes
+  Average: 621.24 Median: 615.0 MAX: 851.0 MIN: 460.0
+================= THIS IS THE 383 ITERATION
+  Total 100 of mazes
+  Average: 615.57 Median: 606.0 MAX: 851.0 MIN: 460.0
+================= THIS IS THE 384 ITERATION
+  Total 100 of mazes
+  Average: 614.54 Median: 612.0 MAX: 851.0 MIN: 497.0
+================= THIS IS THE 385 ITERATION
+  Total 100 of mazes
+  Average: 611.42 Median: 603.0 MAX: 848.0 MIN: 462.0
+================= THIS IS THE 386 ITERATION
+  Total 100 of mazes
+  Average: 591.94 Median: 574.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 387 ITERATION
+  Total 100 of mazes
+  Average: 606.09 Median: 607.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 388 ITERATION
+  Total 100 of mazes
+  Average: 611.03 Median: 604.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 389 ITERATION
+  Total 100 of mazes
+  Average: 605.77 Median: 594.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 390 ITERATION
+  Total 100 of mazes
+  Average: 606.74 Median: 576.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 391 ITERATION
+  Total 100 of mazes
+  Average: 599.75 Median: 601.0 MAX: 807.0 MIN: 460.0
+================= THIS IS THE 392 ITERATION
+  Total 100 of mazes
+  Average: 609.32 Median: 610.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 393 ITERATION
+  Total 100 of mazes
+  Average: 595.32 Median: 599.0 MAX: 842.0 MIN: 460.0
+================= THIS IS THE 394 ITERATION
+  Total 100 of mazes
+  Average: 596.54 Median: 599.0 MAX: 842.0 MIN: 460.0
+================= THIS IS THE 395 ITERATION
+  Total 100 of mazes
+  Average: 608.81 Median: 599.0 MAX: 848.0 MIN: 460.0
+================= THIS IS THE 396 ITERATION
+  Total 100 of mazes
+  Average: 600.3 Median: 574.0 MAX: 814.0 MIN: 460.0
+================= THIS IS THE 397 ITERATION
+  Total 100 of mazes
+  Average: 606.1 Median: 599.0 MAX: 814.0 MIN: 460.0
+================= THIS IS THE 398 ITERATION
+  Total 100 of mazes
+  Average: 615.41 Median: 612.0 MAX: 846.0 MIN: 460.0
+================= THIS IS THE 399 ITERATION
+  Total 100 of mazes
+  Average: 595.15 Median: 573.0 MAX: 814.0 MIN: 456.0
+================= THIS IS THE 400 ITERATION
+  Total 100 of mazes
+  Average: 596.24 Median: 571.0 MAX: 814.0 MIN: 456.0
+================= THIS IS THE 401 ITERATION
+  Total 100 of mazes
+  Average: 593.29 Median: 573.0 MAX: 848.0 MIN: 456.0
+================= THIS IS THE 402 ITERATION
+  Total 100 of mazes
+  Average: 602.58 Median: 599.0 MAX: 848.0 MIN: 454.0
+================= THIS IS THE 403 ITERATION
+  Total 100 of mazes
+  Average: 602.4 Median: 599.0 MAX: 844.0 MIN: 454.0
+================= THIS IS THE 404 ITERATION
+  Total 100 of mazes
+  Average: 604.42 Median: 599.0 MAX: 844.0 MIN: 454.0
+================= THIS IS THE 405 ITERATION
+  Total 100 of mazes
+  Average: 610.79 Median: 610.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 406 ITERATION
+  Total 100 of mazes
+  Average: 618.36 Median: 612.0 MAX: 844.0 MIN: 459.0
+================= THIS IS THE 407 ITERATION
+  Total 100 of mazes
+  Average: 612.63 Median: 610.0 MAX: 844.0 MIN: 460.0
+================= THIS IS THE 408 ITERATION
+  Total 100 of mazes
+  Average: 613.41 Median: 610.0 MAX: 844.0 MIN: 460.0
+================= THIS IS THE 409 ITERATION
+  Total 100 of mazes
+  Average: 602.83 Median: 602.0 MAX: 844.0 MIN: 459.0
+================= THIS IS THE 410 ITERATION
+  Total 100 of mazes
+  Average: 620.65 Median: 610.0 MAX: 844.0 MIN: 459.0
+================= THIS IS THE 411 ITERATION
+  Total 100 of mazes
+  Average: 613.41 Median: 595.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 412 ITERATION
+  Total 100 of mazes
+  Average: 617.02 Median: 595.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 413 ITERATION
+  Total 100 of mazes
+  Average: 614.79 Median: 602.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 414 ITERATION
+  Total 100 of mazes
+  Average: 610.67 Median: 598.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 415 ITERATION
+  Total 100 of mazes
+  Average: 609.56 Median: 598.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 416 ITERATION
+  Total 100 of mazes
+  Average: 599.33 Median: 592.0 MAX: 844.0 MIN: 457.0
+================= THIS IS THE 417 ITERATION
+  Total 100 of mazes
+  Average: 602.07 Median: 578.0 MAX: 817.0 MIN: 457.0
+================= THIS IS THE 418 ITERATION
+  Total 100 of mazes
+  Average: 595.02 Median: 563.0 MAX: 844.0 MIN: 459.0
+================= THIS IS THE 419 ITERATION
+  Total 100 of mazes
+  Average: 591.33 Median: 563.0 MAX: 845.0 MIN: 458.0
+================= THIS IS THE 420 ITERATION
+  Total 100 of mazes
+  Average: 597.56 Median: 578.0 MAX: 844.0 MIN: 460.0
+================= THIS IS THE 421 ITERATION
+  Total 100 of mazes
+  Average: 604.1 Median: 577.0 MAX: 844.0 MIN: 458.0
+================= THIS IS THE 422 ITERATION
+  Total 100 of mazes
+  Average: 602.04 Median: 599.0 MAX: 817.0 MIN: 458.0
+================= THIS IS THE 423 ITERATION
+  Total 100 of mazes
+  Average: 599.56 Median: 573.0 MAX: 844.0 MIN: 458.0
+================= THIS IS THE 424 ITERATION
+  Total 100 of mazes
+  Average: 608.47 Median: 607.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 425 ITERATION
+  Total 100 of mazes
+  Average: 606.51 Median: 602.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 426 ITERATION
+  Total 100 of mazes
+  Average: 600.49 Median: 577.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 427 ITERATION
+  Total 100 of mazes
+  Average: 590.53 Median: 573.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 428 ITERATION
+  Total 100 of mazes
+  Average: 595.18 Median: 573.0 MAX: 844.0 MIN: 456.0
+================= THIS IS THE 429 ITERATION
+  Total 100 of mazes
+  Average: 595.14 Median: 567.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 430 ITERATION
+  Total 100 of mazes
+  Average: 607.52 Median: 602.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 431 ITERATION
+  Total 100 of mazes
+  Average: 592.91 Median: 602.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 432 ITERATION
+  Total 100 of mazes
+  Average: 589.74 Median: 559.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 433 ITERATION
+  Total 100 of mazes
+  Average: 603.24 Median: 573.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 434 ITERATION
+  Total 100 of mazes
+  Average: 596.23 Median: 573.0 MAX: 809.0 MIN: 461.0
+================= THIS IS THE 435 ITERATION
+  Total 100 of mazes
+  Average: 612.4 Median: 602.0 MAX: 842.0 MIN: 461.0
+================= THIS IS THE 436 ITERATION
+  Total 100 of mazes
+  Average: 605.65 Median: 577.0 MAX: 842.0 MIN: 461.0
+================= THIS IS THE 437 ITERATION
+  Total 100 of mazes
+  Average: 610.1 Median: 599.0 MAX: 842.0 MIN: 461.0
+================= THIS IS THE 438 ITERATION
+  Total 100 of mazes
+  Average: 605.04 Median: 577.0 MAX: 842.0 MIN: 461.0
+================= THIS IS THE 439 ITERATION
+  Total 100 of mazes
+  Average: 594.08 Median: 574.0 MAX: 809.0 MIN: 461.0
+================= THIS IS THE 440 ITERATION
+  Total 100 of mazes
+  Average: 591.85 Median: 574.0 MAX: 842.0 MIN: 461.0
+================= THIS IS THE 441 ITERATION
+  Total 100 of mazes
+  Average: 581.24 Median: 562.0 MAX: 808.0 MIN: 461.0
+================= THIS IS THE 442 ITERATION
+  Total 100 of mazes
+  Average: 596.82 Median: 574.0 MAX: 808.0 MIN: 463.0
+================= THIS IS THE 443 ITERATION
+  Total 100 of mazes
+  Average: 605.04 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 444 ITERATION
+  Total 100 of mazes
+  Average: 599.59 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 445 ITERATION
+  Total 100 of mazes
+  Average: 606.33 Median: 612.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 446 ITERATION
+  Total 100 of mazes
+  Average: 597.44 Median: 573.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 447 ITERATION
+  Total 100 of mazes
+  Average: 608.45 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 448 ITERATION
+  Total 100 of mazes
+  Average: 611.96 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 449 ITERATION
+  Total 100 of mazes
+  Average: 607.54 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 450 ITERATION
+  Total 100 of mazes
+  Average: 616.09 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 451 ITERATION
+  Total 100 of mazes
+  Average: 593.21 Median: 573.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 452 ITERATION
+  Total 100 of mazes
+  Average: 586.45 Median: 573.0 MAX: 802.0 MIN: 463.0
+================= THIS IS THE 453 ITERATION
+  Total 100 of mazes
+  Average: 597.84 Median: 574.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 454 ITERATION
+  Total 100 of mazes
+  Average: 609.84 Median: 609.0 MAX: 842.0 MIN: 463.0
+================= THIS IS THE 455 ITERATION
+  Total 100 of mazes
+  Average: 599.88 Median: 574.0 MAX: 808.0 MIN: 463.0
+================= THIS IS THE 456 ITERATION
+  Total 100 of mazes
+  Average: 599.79 Median: 573.0 MAX: 843.0 MIN: 463.0
+================= THIS IS THE 457 ITERATION
+  Total 100 of mazes
+  Average: 596.36 Median: 574.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 458 ITERATION
+  Total 100 of mazes
+  Average: 593.03 Median: 569.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 459 ITERATION
+  Total 100 of mazes
+  Average: 598.9 Median: 573.0 MAX: 843.0 MIN: 490.0
+================= THIS IS THE 460 ITERATION
+  Total 100 of mazes
+  Average: 597.78 Median: 574.0 MAX: 808.0 MIN: 461.0
+================= THIS IS THE 461 ITERATION
+  Total 100 of mazes
+  Average: 607.65 Median: 588.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 462 ITERATION
+  Total 100 of mazes
+  Average: 609.21 Median: 588.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 463 ITERATION
+  Total 100 of mazes
+  Average: 603.23 Median: 588.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 464 ITERATION
+  Total 100 of mazes
+  Average: 591.58 Median: 572.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 465 ITERATION
+  Total 100 of mazes
+  Average: 597.71 Median: 574.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 466 ITERATION
+  Total 100 of mazes
+  Average: 592.81 Median: 569.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 467 ITERATION
+  Total 100 of mazes
+  Average: 593.86 Median: 569.0 MAX: 810.0 MIN: 461.0
+================= THIS IS THE 468 ITERATION
+  Total 100 of mazes
+  Average: 604.11 Median: 588.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 469 ITERATION
+  Total 100 of mazes
+  Average: 615.9 Median: 600.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 470 ITERATION
+  Total 100 of mazes
+  Average: 604.27 Median: 588.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 471 ITERATION
+  Total 100 of mazes
+  Average: 611.4 Median: 611.0 MAX: 844.0 MIN: 463.0
+================= THIS IS THE 472 ITERATION
+  Total 100 of mazes
+  Average: 610.3 Median: 588.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 473 ITERATION
+  Total 100 of mazes
+  Average: 600.32 Median: 588.0 MAX: 843.0 MIN: 463.0
+================= THIS IS THE 474 ITERATION
+  Total 100 of mazes
+  Average: 622.23 Median: 615.0 MAX: 845.0 MIN: 461.0
+================= THIS IS THE 475 ITERATION
+  Total 100 of mazes
+  Average: 602.81 Median: 596.0 MAX: 843.0 MIN: 463.0
+================= THIS IS THE 476 ITERATION
+  Total 100 of mazes
+  Average: 604.14 Median: 596.0 MAX: 845.0 MIN: 461.0
+================= THIS IS THE 477 ITERATION
+  Total 100 of mazes
+  Average: 616.97 Median: 611.0 MAX: 845.0 MIN: 461.0
+================= THIS IS THE 478 ITERATION
+  Total 100 of mazes
+  Average: 605.4 Median: 596.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 479 ITERATION
+  Total 100 of mazes
+  Average: 602.05 Median: 574.0 MAX: 843.0 MIN: 463.0
+================= THIS IS THE 480 ITERATION
+  Total 100 of mazes
+  Average: 597.2 Median: 574.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 481 ITERATION
+  Total 100 of mazes
+  Average: 604.15 Median: 588.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 482 ITERATION
+  Total 100 of mazes
+  Average: 585.08 Median: 567.0 MAX: 803.0 MIN: 461.0
+================= THIS IS THE 483 ITERATION
+  Total 100 of mazes
+  Average: 596.05 Median: 570.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 484 ITERATION
+  Total 100 of mazes
+  Average: 595.55 Median: 570.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 485 ITERATION
+  Total 100 of mazes
+  Average: 612.56 Median: 588.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 486 ITERATION
+  Total 100 of mazes
+  Average: 602.44 Median: 588.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 487 ITERATION
+  Total 100 of mazes
+  Average: 600.25 Median: 574.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 488 ITERATION
+  Total 100 of mazes
+  Average: 608.93 Median: 612.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 489 ITERATION
+  Total 100 of mazes
+  Average: 616.95 Median: 613.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 490 ITERATION
+  Total 100 of mazes
+  Average: 618.44 Median: 627.0 MAX: 843.0 MIN: 461.0
+================= THIS IS THE 491 ITERATION
+  Total 100 of mazes
+  Average: 612.35 Median: 612.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 492 ITERATION
+  Total 100 of mazes
+  Average: 604.43 Median: 612.0 MAX: 803.0 MIN: 461.0
+================= THIS IS THE 493 ITERATION
+  Total 100 of mazes
+  Average: 592.47 Median: 575.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 494 ITERATION
+  Total 100 of mazes
+  Average: 598.35 Median: 575.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 495 ITERATION
+  Total 100 of mazes
+  Average: 593.22 Median: 567.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 496 ITERATION
+  Total 100 of mazes
+  Average: 597.6 Median: 574.0 MAX: 844.0 MIN: 461.0
+================= THIS IS THE 497 ITERATION
+  Total 100 of mazes
+  Average: 595.97 Median: 574.0 MAX: 845.0 MIN: 461.0
+================= THIS IS THE 498 ITERATION
+  Total 100 of mazes
+  Average: 595.26 Median: 576.0 MAX: 845.0 MIN: 461.0
+================= THIS IS THE 499 ITERATION
+  Total 100 of mazes
+  Average: 598.61 Median: 573.0 MAX: 845.0 MIN: 458.0

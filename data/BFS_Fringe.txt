@@ -1,0 +1,300 @@
+Iteration : 0
+Ave :100.3
+----------
+Iteration : 1
+Ave :99.59
+----------
+Iteration : 2
+Ave :98.3
+----------
+Iteration : 3
+Ave :97.31
+----------
+Iteration : 4
+Ave :96.11
+----------
+Iteration : 5
+Ave :95.58
+----------
+Iteration : 6
+Ave :93.97
+----------
+Iteration : 7
+Ave :91.96
+----------
+Iteration : 8
+Ave :89.78
+----------
+Iteration : 9
+Ave :87.32
+----------
+Iteration : 10
+Ave :85.16
+----------
+Iteration : 11
+Ave :83.52
+----------
+Iteration : 12
+Ave :80.96
+----------
+Iteration : 13
+Ave :77.37
+----------
+Iteration : 14
+Ave :75.26
+----------
+Iteration : 15
+Ave :71.02
+----------
+Iteration : 16
+Ave :68.16
+----------
+Iteration : 17
+Ave :66.71
+----------
+Iteration : 18
+Ave :65.83
+----------
+Iteration : 19
+Ave :64.68
+----------
+Iteration : 20
+Ave :60.48
+----------
+Iteration : 21
+Ave :58.23
+----------
+Iteration : 22
+Ave :55.56
+----------
+Iteration : 23
+Ave :54.76
+----------
+Iteration : 24
+Ave :54.15
+----------
+Iteration : 25
+Ave :52.82
+----------
+Iteration : 26
+Ave :52.28
+----------
+Iteration : 27
+Ave :51.13
+----------
+Iteration : 28
+Ave :50.79
+----------
+Iteration : 29
+Ave :50.07
+----------
+Iteration : 30
+Ave :49.59
+----------
+Iteration : 31
+Ave :48.79
+----------
+Iteration : 32
+Ave :48.23
+----------
+Iteration : 33
+Ave :48.6
+----------
+Iteration : 34
+Ave :48.11
+----------
+Iteration : 35
+Ave :47.38
+----------
+Iteration : 36
+Ave :45.72
+----------
+Iteration : 37
+Ave :44.91
+----------
+Iteration : 38
+Ave :44.52
+----------
+Iteration : 39
+Ave :44.18
+----------
+Iteration : 40
+Ave :43.57
+----------
+Iteration : 41
+Ave :43.76
+----------
+Iteration : 42
+Ave :43.5
+----------
+Iteration : 43
+Ave :42.86
+----------
+Iteration : 44
+Ave :42.72
+----------
+Iteration : 45
+Ave :42.78
+----------
+Iteration : 46
+Ave :42.62
+----------
+Iteration : 47
+Ave :43.23
+----------
+Iteration : 48
+Ave :42.81
+----------
+Iteration : 49
+Ave :42.63
+----------
+Iteration : 50
+Ave :42.63
+----------
+Iteration : 51
+Ave :42.36
+----------
+Iteration : 52
+Ave :42.01
+----------
+Iteration : 53
+Ave :41.51
+----------
+Iteration : 54
+Ave :42.17
+----------
+Iteration : 55
+Ave :41.95
+----------
+Iteration : 56
+Ave :41.61
+----------
+Iteration : 57
+Ave :41.59
+----------
+Iteration : 58
+Ave :40.27
+----------
+Iteration : 59
+Ave :40.08
+----------
+Iteration : 60
+Ave :40.51
+----------
+Iteration : 61
+Ave :40.53
+----------
+Iteration : 62
+Ave :40.53
+----------
+Iteration : 63
+Ave :40.73
+----------
+Iteration : 64
+Ave :40.67
+----------
+Iteration : 65
+Ave :40.23
+----------
+Iteration : 66
+Ave :40.04
+----------
+Iteration : 67
+Ave :40.0
+----------
+Iteration : 68
+Ave :39.78
+----------
+Iteration : 69
+Ave :39.65
+----------
+Iteration : 70
+Ave :39.53
+----------
+Iteration : 71
+Ave :39.3
+----------
+Iteration : 72
+Ave :39.36
+----------
+Iteration : 73
+Ave :39.32
+----------
+Iteration : 74
+Ave :39.44
+----------
+Iteration : 75
+Ave :39.1
+----------
+Iteration : 76
+Ave :39.49
+----------
+Iteration : 77
+Ave :39.26
+----------
+Iteration : 78
+Ave :38.99
+----------
+Iteration : 79
+Ave :38.8
+----------
+Iteration : 80
+Ave :38.87
+----------
+Iteration : 81
+Ave :39.18
+----------
+Iteration : 82
+Ave :38.18
+----------
+Iteration : 83
+Ave :37.94
+----------
+Iteration : 84
+Ave :37.69
+----------
+Iteration : 85
+Ave :37.77
+----------
+Iteration : 86
+Ave :37.56
+----------
+Iteration : 87
+Ave :37.35
+----------
+Iteration : 88
+Ave :36.92
+----------
+Iteration : 89
+Ave :36.47
+----------
+Iteration : 90
+Ave :36.54
+----------
+Iteration : 91
+Ave :36.66
+----------
+Iteration : 92
+Ave :36.69
+----------
+Iteration : 93
+Ave :36.69
+----------
+Iteration : 94
+Ave :36.46
+----------
+Iteration : 95
+Ave :36.16
+----------
+Iteration : 96
+Ave :36.04
+----------
+Iteration : 97
+Ave :36.24
+----------
+Iteration : 98
+Ave :35.7
+----------
+Iteration : 99
+Ave :35.57
+----------

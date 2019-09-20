@@ -1,0 +1,300 @@
+Iteration : 0
+Ave :9002.32
+----------
+Iteration : 1
+Ave :8633.3
+----------
+Iteration : 2
+Ave :8283.81
+----------
+Iteration : 3
+Ave :7983.34
+----------
+Iteration : 4
+Ave :7706.47
+----------
+Iteration : 5
+Ave :7439.12
+----------
+Iteration : 6
+Ave :7224.35
+----------
+Iteration : 7
+Ave :6995.48
+----------
+Iteration : 8
+Ave :6818.01
+----------
+Iteration : 9
+Ave :6611.62
+----------
+Iteration : 10
+Ave :6434.1
+----------
+Iteration : 11
+Ave :6250.23
+----------
+Iteration : 12
+Ave :6035.72
+----------
+Iteration : 13
+Ave :5829.24
+----------
+Iteration : 14
+Ave :5698.04
+----------
+Iteration : 15
+Ave :5575.13
+----------
+Iteration : 16
+Ave :5361.73
+----------
+Iteration : 17
+Ave :5268.62
+----------
+Iteration : 18
+Ave :5097.59
+----------
+Iteration : 19
+Ave :5047.96
+----------
+Iteration : 20
+Ave :4937.76
+----------
+Iteration : 21
+Ave :4830.75
+----------
+Iteration : 22
+Ave :4797.52
+----------
+Iteration : 23
+Ave :4789.28
+----------
+Iteration : 24
+Ave :4742.76
+----------
+Iteration : 25
+Ave :4689.55
+----------
+Iteration : 26
+Ave :4634.75
+----------
+Iteration : 27
+Ave :4521.99
+----------
+Iteration : 28
+Ave :4465.6
+----------
+Iteration : 29
+Ave :4447.63
+----------
+Iteration : 30
+Ave :4355.39
+----------
+Iteration : 31
+Ave :4334.42
+----------
+Iteration : 32
+Ave :4385.22
+----------
+Iteration : 33
+Ave :4265.43
+----------
+Iteration : 34
+Ave :4232.33
+----------
+Iteration : 35
+Ave :4201.75
+----------
+Iteration : 36
+Ave :4130.87
+----------
+Iteration : 37
+Ave :4110.01
+----------
+Iteration : 38
+Ave :4075.46
+----------
+Iteration : 39
+Ave :4084.36
+----------
+Iteration : 40
+Ave :4037.03
+----------
+Iteration : 41
+Ave :4052.72
+----------
+Iteration : 42
+Ave :3993.9
+----------
+Iteration : 43
+Ave :3985.21
+----------
+Iteration : 44
+Ave :3910.16
+----------
+Iteration : 45
+Ave :3910.99
+----------
+Iteration : 46
+Ave :3904.23
+----------
+Iteration : 47
+Ave :3925.32
+----------
+Iteration : 48
+Ave :3919.7
+----------
+Iteration : 49
+Ave :3915.1
+----------
+Iteration : 50
+Ave :3909.27
+----------
+Iteration : 51
+Ave :3905.19
+----------
+Iteration : 52
+Ave :3866.49
+----------
+Iteration : 53
+Ave :3791.36
+----------
+Iteration : 54
+Ave :3826.31
+----------
+Iteration : 55
+Ave :3810.13
+----------
+Iteration : 56
+Ave :3863.6
+----------
+Iteration : 57
+Ave :3876.43
+----------
+Iteration : 58
+Ave :3872.38
+----------
+Iteration : 59
+Ave :3863.81
+----------
+Iteration : 60
+Ave :3914.65
+----------
+Iteration : 61
+Ave :3955.55
+----------
+Iteration : 62
+Ave :3907.15
+----------
+Iteration : 63
+Ave :3890.0
+----------
+Iteration : 64
+Ave :3804.35
+----------
+Iteration : 65
+Ave :3818.13
+----------
+Iteration : 66
+Ave :3782.65
+----------
+Iteration : 67
+Ave :3708.74
+----------
+Iteration : 68
+Ave :3649.24
+----------
+Iteration : 69
+Ave :3596.06
+----------
+Iteration : 70
+Ave :3555.06
+----------
+Iteration : 71
+Ave :3558.43
+----------
+Iteration : 72
+Ave :3545.19
+----------
+Iteration : 73
+Ave :3553.67
+----------
+Iteration : 74
+Ave :3541.77
+----------
+Iteration : 75
+Ave :3507.43
+----------
+Iteration : 76
+Ave :3486.44
+----------
+Iteration : 77
+Ave :3492.48
+----------
+Iteration : 78
+Ave :3478.84
+----------
+Iteration : 79
+Ave :3492.11
+----------
+Iteration : 80
+Ave :3518.89
+----------
+Iteration : 81
+Ave :3515.66
+----------
+Iteration : 82
+Ave :3508.24
+----------
+Iteration : 83
+Ave :3484.57
+----------
+Iteration : 84
+Ave :3451.96
+----------
+Iteration : 85
+Ave :3457.83
+----------
+Iteration : 86
+Ave :3443.96
+----------
+Iteration : 87
+Ave :3447.71
+----------
+Iteration : 88
+Ave :3420.27
+----------
+Iteration : 89
+Ave :3423.06
+----------
+Iteration : 90
+Ave :3434.55
+----------
+Iteration : 91
+Ave :3419.0
+----------
+Iteration : 92
+Ave :3421.01
+----------
+Iteration : 93
+Ave :3435.36
+----------
+Iteration : 94
+Ave :3414.76
+----------
+Iteration : 95
+Ave :3401.87
+----------
+Iteration : 96
+Ave :3384.85
+----------
+Iteration : 97
+Ave :3390.07
+----------
+Iteration : 98
+Ave :3420.28
+----------
+Iteration : 99
+Ave :3429.48
+----------
